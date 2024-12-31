@@ -1,0 +1,11 @@
+{
+  "database": {
+      "host": "localhost",
+      "user": "admin",
+      "password": "admin123",
+      "name": "userdb"
+  },
+  "aws_secret_key": "AKIA1234567890ABCDEF",
+  "aws_access_key": "abcdef1234567890ghijklmn",
+  "smtp_password": "mail123password"
+}
